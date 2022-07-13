@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-<img src="https://scontent.fdac2-1.fna.fbcdn.net/v/t39.30808-6/273738154_1308236292955055_4127986082767283775_n.png?_nc_cat=106&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeHN-zitpsfQ73HIP2z33JBpR8yLFMJd75VHzIsUwl3vlamtHN3q2bUxPKCX3STmF7blhh1cw8DzKg_-d9tMsVen&_nc_ohc=qmTYVilFdLIAX9Ck9Bs&_nc_zt=23&_nc_ht=scontent.fdac2-1.fna&oh=00_AT-KvXElUMdE_gqFXAMW4b6_12NBIGAvDyfjiZyXBGotCg&oe=62CDF7E4" align="center" style="width: 100%" />
+<img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e470o62dxadytqo7w8iksj57ql5ok12gk2zw5w4ro9c&rid=giphy.gif&ct=g" align="center" style="width: 100%" />
 </div>  
   
 
