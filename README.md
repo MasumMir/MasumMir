@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--
+
 <div align="center">
 <img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e470o62dxadytqo7w8iksj57ql5ok12gk2zw5w4ro9c&rid=giphy.gif&ct=g" align="center" style="width: 100%" />
 </div>  
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 </div>
 
 
--->
+
 
 <h1 align="center">Hi 👋, I'm Masum</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
