@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://www.linkedin.com/in/masum-mir-504a60229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="masum mir" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/md-masum-mir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="masum mir" height="30" width="40" /></a>
 <a href="https://web.facebook.com/profile.php?id=100013060903183&sk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md masum" height="30" width="40" /></a>
 </p>
 
